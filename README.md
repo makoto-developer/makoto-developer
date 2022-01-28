@@ -1,3 +1,4 @@
-## Hello
+# Introduction
 
-I'm a freelance Web Applicaiton Developer.
+I work as a freelance programmer. 
+Rakuten Inc. ex-employee.
