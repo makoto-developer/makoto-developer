@@ -2,6 +2,7 @@
 
 I work as a freelance programmer.
 Rakuten Inc ex-employee.
+
 I love Haskell(PureScript), React.js/TypeScript, Rust, Golang, Elixir, Nim.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makoto-developer&count_private=true)
