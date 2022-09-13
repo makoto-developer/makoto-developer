@@ -1,7 +1,7 @@
 # makoto-developer
 
 ## Introduction
-I work as a freelance Full Stack Developer in Japan.
+I work as a freelance Full-Stack-Developer in Japan.
 Rakuten Inc ex-employee.
 
 ## My latest Github's status
@@ -22,5 +22,5 @@ I love Haskell(PureScript), React.js/TypeScript, Rust, Golang, Elixir, Nim.
 
 ## Gist
 
-[https://gist.github.com/makoto-developer](gist)
+[Gist Page](https://gist.github.com/makoto-developer)
 
