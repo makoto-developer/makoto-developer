@@ -11,7 +11,7 @@ Rakuten Inc ex-employee.
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makoto-developer&layout=compact&hide=javascript" />
 </div>
 <div>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=makoto-developer&custom_title=my%20activiteis&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=makoto-developer&custom_title=my%20activiteis&hide_border=true&bg_color=white" />
 </div>
 
 ## Favorite Programming Languages
