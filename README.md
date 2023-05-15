@@ -9,7 +9,7 @@ I work as a self-employee(freelance) full-stack developer.
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makoto-developer&layout=compact&hide=javascript" />
 </div>
 <div>
-  <img width="750px" src="https://github-readme-activity-graph.cyclic.app/graph?username=makoto-developer&custom_title=my%20activiteis&hide_border=true&bg_color=white" />
+  <img width="750px" src="https://github-readme-activity-graph.cyclic.app/graph?username=makoto-developer&custom_title=Github%20commits&hide_border=true&bg_color=white" />
 </div>
 
 ## Programming Languages
