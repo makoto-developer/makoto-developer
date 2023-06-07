@@ -5,7 +5,7 @@ I work as a self-employee(freelance) full-stack developer.
 
 ## My latest Github's status
 <div>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=transparent" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=makoto-developer&count_private=true&show_icons=true&theme=transparent" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makoto-developer&layout=compact&hide=javascript" />
 </div>
 <div>
@@ -30,3 +30,6 @@ React.js, TypeScript, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 
 ## Gist
 [makoto-developer's Gist Page](https://gist.github.com/makoto-developer)
+
+## Topics
+[makoto-developer's Topics Page](https://github.com/stars/makoto-developer/topics)
