@@ -26,7 +26,9 @@ React.js, TypeScript, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="rust" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="rust" width="80" height="80"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
 ## Gist
