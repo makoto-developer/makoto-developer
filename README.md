@@ -1,7 +1,7 @@
 # makoto-developer
 
 ## Hi 👋
-I work as a self-employee(freelance) full-stack developer.
+I work as a self-employee(freelance) Full-Stack Developer.
 
 ## My latest Github's status
 <div>
