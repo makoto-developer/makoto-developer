@@ -23,7 +23,6 @@ React.js, TypeScript, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="rust" width="80" height="80"/>
 </p>
 
 ## Mobile
@@ -39,6 +38,7 @@ React.js, TypeScript, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="rust" width="80" height="80"/>
 </p>
 
 ## Database
