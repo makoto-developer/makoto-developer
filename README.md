@@ -5,7 +5,10 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 
 ## My latest Github's status
 <div>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=makoto-developer&count_private=true&show_icons=true&theme=transparent" />
+  <img height="172px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makoto-developer" />
+</div>
+<div>
+  <img height="251px" src="https://github-readme-stats.vercel.app/api?username=makoto-developer&count_private=true&show_icons=true&theme=transparent"&include_all_commits=true />
 </div>
 <div>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makoto-developer&layout=compact&hide=JavaScript" />
