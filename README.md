@@ -1,9 +1,11 @@
 # makoto-developer
 
 ## Hi 👋
+
 I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 
 ## My latest Github's status
+
 <div>
   <img height="251px" src="https://github-readme-stats.vercel.app/api?username=makoto-developer&count_private=true&show_icons=true&theme=transparent"&include_all_commits=true />
 </div>
@@ -17,7 +19,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 </div>
 
 ## Programming Languages
-TypeScript, React.js, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
+
 <div> 
 <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="80" height="80"/>
@@ -46,10 +48,11 @@ TypeScript, React.js, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="rust" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" width="80" height="80"/>
 </div>
 
 ## Database
+
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
@@ -58,7 +61,9 @@ TypeScript, React.js, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 </div>
 
 ## Gist
+
 [makoto-developer's Gist Page](https://gist.github.com/makoto-developer)
 
 ## Topics
+
 [makoto-developer's Topics Page](https://github.com/stars/makoto-developer/topics)
