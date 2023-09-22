@@ -36,11 +36,12 @@ TypeScript, React.js, Rust, Haskell, Golang, Elixir, Erlang, Nim, and so on.
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/>
 </div>
 
 ## Cloud
+
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80"/>
