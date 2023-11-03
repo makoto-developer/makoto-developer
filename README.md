@@ -58,6 +58,8 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic-search" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/dgraphio/dgraphio-ar21.svg" alt="dgraph" height="80"/>
+
 </div>
 
 ## Gist
