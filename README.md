@@ -24,7 +24,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="80"/>
-<img src="https://cdn.svgporn.com/logos/grpc.svg" alt="grpc" height="80" style="padding: 20px 0;" />
+<img src="https://cdn.svgporn.com/logos/grpc.svg" alt="grpc" height="80" style="width: 80px;" />
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="80"/>
@@ -53,7 +53,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="80"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" height="80"/>
 <img src="https://cdn.svgporn.com/logos/argo-icon.svg" alt="argo" height="80"/>
-<img src="https://cdn.svgporn.com/logos/openstack.svg" alt="openstack" height="80" style="width: 20px;"/>
+<img src="https://cdn.svgporn.com/logos/openstack.svg" alt="openstack" height="80" style="width: 80px;"/>
 </div>
 
 ## Database
@@ -61,12 +61,12 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="80"/>
-<img src="https://typesense.org/docs/images/typesense_logo.svg" alt="typesense" height="80" style="width: 20px;"/>
+<img src="https://typesense.org/docs/images/typesense_logo.svg" alt="typesense" height="80" style="width: 80px;"/>
 <img src="https://www.algolia.com/doc/" alt="algolia" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic-search" height="80"/>
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" height="80"/>
-<img src="https://cdn.svgporn.com/logos/foundationdb.svg" alt="foundationdb" height="80" style="width: 20px;" />
-<img src="https://cdn.svgporn.com/logos/surrealdb.svg" alt="surrealdb" height="80" style="width: 20px;"/>
+<img src="https://cdn.svgporn.com/logos/foundationdb.svg" alt="foundationdb" height="80" style="width: 80px;" />
+<img src="https://cdn.svgporn.com/logos/surrealdb.svg" alt="surrealdb" height="80" style="width: 80px;"/>
 <img src="https://www.vectorlogo.zone/logos/dgraphio/dgraphio-ar21.svg" alt="dgraph" height="80"/>
 
 </div>
