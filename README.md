@@ -65,7 +65,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://cdn.svgporn.com/logos/algolia.svg" alt="algolia" height="80" style="width: 200px;"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic-search" height="80"/>
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" height="80"/>
-<img src="https://cdn.svgporn.com/logos/foundationdb.svg" alt="foundationdb" height="80" style="width: 200px;" />
+<img src="https://cdn.svgporn.com/logos/foundationdb.svg" alt="foundationdb" height="80" style="width: 200px;"/>
 <img src="https://cdn.svgporn.com/logos/surrealdb.svg" alt="surrealdb" height="80" style="width: 200px;"/>
 <img src="https://www.vectorlogo.zone/logos/dgraphio/dgraphio-ar21.svg" alt="dgraph" height="80"/>
 
