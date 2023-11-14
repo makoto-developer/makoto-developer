@@ -45,7 +45,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="80"/>
 </div>
 
-## Cloud/Infrastracture
+## Cloud/Infrastracture/XaaS
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="80"/>
@@ -53,7 +53,10 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="80"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" height="80"/>
 <img src="https://cdn.svgporn.com/logos/argo-icon.svg" alt="argo" height="80"/>
-<img src="https://cdn.svgporn.com/logos/openstack.svg" alt="openstack" height="80" style="width: 200px;"/>
+<img src="https://cdn.svgporn.com/logos/terraform.svg" alt="terraform" height="80"/>
+<img src="https://cdn.svgporn.com/logos/openstack.svg" alt="openstack" height="80" style="width: 200px;margin: 0 10px;"/>
+<img src="https://cdn.svgporn.com/logos/vercel.svg" alt="vercel" height="80" style="width: 200px;margin: 0 10px;"/>
+<img src="https://cdn.svgporn.com/logos/heroku.svg" alt="heroku" height="80" style="width: 200px;margin: 0 10px;"/>
 </div>
 
 ## Database
