@@ -66,7 +66,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="80"/>
 <img src="https://typesense.org/docs/images/typesense_logo.svg" alt="typesense" height="80" style="width: 80px;"/>
 <img src="https://cdn.svgporn.com/logos/algolia.svg" alt="algolia" height="80" style="width: 200px;"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic-search" height="80"/>
+<img src="https://colabmix.co.jp/wp-content/uploads/2020/02/Elasticsearch-Horizontal-Text-Full-Color.png" alt="elastic-search" height="80"/>
 <img src="https://www.xlsoft.com/jp/blog/wp-content/uploads/2017/03/Realm-logo-vertical.png" alt="realm" height="80"/>
 <img src="https://cdn.svgporn.com/logos/foundationdb.svg" alt="foundationdb" height="80" style="width: 200px;"/>
 <img src="https://cdn.svgporn.com/logos/surrealdb.svg" alt="surrealdb" height="80" style="width: 200px;"/>
