@@ -23,7 +23,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <div> 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_170184.png" alt="elixir" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" height="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="80"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*5nXC2DQui7eoYuVbWq1S-A.png" alt="golang" height="80"/>
 <img src="https://cdn.svgporn.com/logos/grpc.svg" alt="grpc" height="80" style="width: 80px;" />
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="80"/>
 <img src="https://www.svgrepo.com/show/353860/haskell.svg" alt="haskell" height="80"/>
@@ -48,9 +48,9 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="80"/>
+<img srs="https://assets.st-note.com/production/uploads/images/43765200/rectangle_large_type_2_0257de261b8d7b8dc649fcf322b37d7c.png?fit=bounds&quality=85&width=1280" alt="gcp" height="80"/>
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png?hl=ja" alt="firebase" height="80"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" height="80"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168360.png" alt="kubernetes" height="80"/>
 <img src="https://cdn.svgporn.com/logos/argo-icon.svg" alt="argo" height="80"/>
 <img src="https://cdn.svgporn.com/logos/terraform.svg" alt="terraform" height="80"/>
 <img src="https://cdn.svgporn.com/logos/openstack.svg" alt="openstack" height="80" style="width: 200px;margin: 0 10px;"/>
