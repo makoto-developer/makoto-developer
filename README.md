@@ -48,7 +48,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="80"/>
-<img srs="https://assets.st-note.com/production/uploads/images/43765200/rectangle_large_type_2_0257de261b8d7b8dc649fcf322b37d7c.png?fit=bounds&quality=85&width=1280" alt="gcp" height="80"/>
+<img srs="https://9to5google.com/wp-content/uploads/sites/4/2016/04/logo_lockup_cloud_platform_icon_vertical-1-e14597986174011.png" alt="gcp" height="80"/>
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png?hl=ja" alt="firebase" height="80"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168360.png" alt="kubernetes" height="80"/>
 <img src="https://cdn.svgporn.com/logos/argo-icon.svg" alt="argo" height="80"/>
