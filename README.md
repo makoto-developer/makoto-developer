@@ -21,28 +21,27 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 ## Programming Languages
 
 <div> 
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" height="80"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_170184.png" alt="elixir" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="80"/>
 <img src="https://cdn.svgporn.com/logos/grpc.svg" alt="grpc" height="80" style="width: 80px;" />
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" height="80"/>
+<img src="https://www.svgrepo.com/show/353860/haskell.svg" alt="haskell" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="80"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" height="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" height="80"/>
-<img src="https://cdn.svgporn.com/logos/bun.svg" alt="bun.js" height="80"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_170766.png" alt="rust" height="80"/>
 <img src="https://cdn.svgporn.com/logos/trpc.svg" alt="trpc" height="80"/>
 </div>
 
 ## Mobile
 
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="80"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="80"/>
+<img src="https://image.pngaaa.com/817/15817-middle.png" alt="android" height="80"/>
+<img src="https://res.cloudinary.com/zenn/image/fetch/s--vLkSRZ_T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" alt="flutter" height="80"/>
+<img src="https://miro.medium.com/v2/resize:fit:580/1*4xfxyfJ336M3vvZQIY7Kaw.png" alt="reactnative" height="80"/>
 </div>
 
 ## Cloud/Infrastracture/XaaS
@@ -50,7 +49,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="80"/>
+<img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png?hl=ja" alt="firebase" height="80"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" height="80"/>
 <img src="https://cdn.svgporn.com/logos/argo-icon.svg" alt="argo" height="80"/>
 <img src="https://cdn.svgporn.com/logos/terraform.svg" alt="terraform" height="80"/>
