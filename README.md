@@ -32,7 +32,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" height="80"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_170766.png" alt="rust" height="80"/>
+<img src="https://www.tech-stack-icons.com/assets/light/rust.svg" alt="rust" height="80"/>
 <img src="https://cdn.svgporn.com/logos/trpc.svg" alt="trpc" height="80"/>
 </div>
 
@@ -57,6 +57,7 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://cdn.svgporn.com/logos/vercel.svg" alt="vercel" height="80" style="width: 200px;margin: 0 10px;"/>
 <img src="https://cdn.svgporn.com/logos/heroku.svg" alt="heroku" height="80" style="width: 200px;margin: 0 10px;"/>
 <img src="https://dbdb.io/media/logos/planetscale.png" alt="planets scale" height="80" />
+<img src="https://www.tech-stack-icons.com/assets/light/cloudflare.svg" alt="planets scale" height="80" />
 </div>
 
 ## Database
@@ -66,7 +67,6 @@ I work as a self-employee(freelance) Full-Stack Developer. Native App Developer.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="80"/>
 <img src="https://typesense.org/docs/images/typesense_logo.svg" alt="typesense" height="80" style="width: 80px;"/>
 <img src="https://cdn.svgporn.com/logos/algolia.svg" alt="algolia" height="80" style="width: 200px;"/>
-<img src="https://colabmix.co.jp/wp-content/uploads/2020/02/Elasticsearch-Horizontal-Text-Full-Color.png" alt="elastic-search" height="80"/>
 <img src="https://www.xlsoft.com/jp/blog/wp-content/uploads/2017/03/Realm-logo-vertical.png" alt="realm" height="80"/>
 <img src="https://cdn.svgporn.com/logos/foundationdb.svg" alt="foundationdb" height="80" style="width: 200px;"/>
 <img src="https://cdn.svgporn.com/logos/surrealdb.svg" alt="surrealdb" height="80" style="width: 200px;"/>

@@ -1,0 +1,23 @@
+{
+  "name": "makoto-developer",
+  "description": "github profile",
+  "auther": "makoto-developer",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/makoto-developer/makoto-developer.git"
+  },
+  "homepage": "https://blog.makoto-developer.net",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=10.5.1 <11"
+  },
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "tech-stack-icons": "^2.1.0"
+  }
+}
