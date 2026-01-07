@@ -48,7 +48,7 @@ Flutter
 / LiveViewNative(Elixir)
 </p>
 
-## インフラ関連(XaaS)など
+## インフラ関連
 
 <p align="left">
 AWS
