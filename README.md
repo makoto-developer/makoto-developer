@@ -9,11 +9,11 @@
 ## 最近のステータス
 
 <div>
-  <img height="170px" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makoto-developer&utcOffset=9" />
-  <img height="176px" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makoto-developer&exclude=JavaScript" />
+  <img height="170px" alt="" src="profile-summary-card-output/default/4-productive-time.svg" />
+  <img height="176px" alt="" src="profile-summary-card-output/default/1-repos-per-language.svg" />
 </div>
 <div>
-  <img height="176px" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makoto-developer&exclude=JavaScript,shell" />
+  <img height="176px" alt="" src="profile-summary-card-output/default/2-most-commit-language.svg" />
 </div>
 
 ## プログラミング言語
