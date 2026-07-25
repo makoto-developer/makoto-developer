@@ -22,3 +22,4 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 9
           EXCLUDE: "javascript,shell"
+          THEME: "default"
