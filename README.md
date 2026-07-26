@@ -1,12 +1,18 @@
 # makoto-developer
 
-## 自己紹介 
+## About / 自己紹介
+
+I have worked as a developer in the IT industry for over 10 years.
+
+My experience spans infrastructure (both on-premises and cloud), mobile, and web applications. I currently work as an architect and tech lead.
+
+---
 
 わたしは10年以上にわたりIT業界で開発者として活動しています。
 
 インフラ（オンプレ・クラウド共に）、モバイル、Webアプリと幅広く経験し、現在はアーキテクトやテックリードとして活動しています。
 
-## 最近のステータス
+## Recent stats / 最近のステータス
 
 <div>
   <img height="170px" alt="" src="profile-summary-card-output/default/4-productive-time.svg" />
@@ -16,7 +22,7 @@
   <img height="176px" alt="" src="profile-summary-card-output/default/2-most-commit-language.svg" />
 </div>
 
-## プログラミング言語
+## Programming languages / プログラミング言語
 
 <p align="left">
 JavaScript
@@ -33,7 +39,7 @@ JavaScript
 / F#
 </p>
 
-## モバイル/PC
+## Mobile / Desktop / モバイル・PC
 
 <p align="left">
 Flutter
@@ -44,7 +50,7 @@ Flutter
 / LiveViewNative(Elixir)
 </p>
 
-## インフラ関連
+## Infrastructure / インフラ関連
 
 <p align="left">
 AWS
