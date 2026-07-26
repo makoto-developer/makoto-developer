@@ -14,6 +14,21 @@ My experience spans infrastructure (both on-premises and cloud), mobile, and web
 
 ## Portfolio / ポートフォリオ
 
+### [Strata](https://github.com/makoto-developer/strata)
+
+A dependency and call-graph visualizer for microservices. It traces a request
+across gRPC, REST and GraphQL down to the function level, and fails CI on
+circular dependencies and layer violations. Static analysis only — no services
+to start, no tracing backend, no runtime dependencies, fully local.
+
+マイクロサービスの依存関係とコールグラフの可視化ツール。gRPC・REST・GraphQL をまたいで
+関数レベルで処理を追え、循環依存とレイヤー違反を CI で検査します。静的解析だけで完結し、
+実行時依存ゼロ・完全ローカル動作です。
+
+🔗 https://makoto-developer.github.io/strata/ ・ 📦 https://github.com/makoto-developer/strata
+
+---
+
 ### [実践IT英会話](https://learning-english.app.makoto-developer.net/)
 
 An English learning web app for software engineers, focused on the vocabulary and
