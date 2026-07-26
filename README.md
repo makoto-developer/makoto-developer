@@ -14,33 +14,12 @@ My experience spans infrastructure (both on-premises and cloud), mobile, and web
 
 ## Portfolio / ポートフォリオ
 
-### [Strata](https://github.com/makoto-developer/strata)
+- **[Strata](https://github.com/makoto-developer/strata)** ([site](https://makoto-developer.github.io/strata/)) — Dependency & call-graph visualizer for microservices. Traces gRPC / REST / GraphQL to the function level and checks layering in CI.
+  マイクロサービスの依存関係・コールグラフ可視化ツール。gRPC / REST / GraphQL を横断して関数レベルで追跡し、循環依存とレイヤー違反を CI で検査。
+- **[実践IT英会話](https://learning-english.app.makoto-developer.net/)** — English learning app for engineers, focused on the vocabulary that comes up in real development work.
+  エンジニア向けのIT英会話学習アプリ。開発の現場で実際に使う英語に絞って練習できる。
 
-A dependency and call-graph visualizer for microservices. It traces a request
-across gRPC, REST and GraphQL down to the function level, and fails CI on
-circular dependencies and layer violations. Static analysis only — no services
-to start, no tracing backend, no runtime dependencies, fully local.
-
-マイクロサービスの依存関係とコールグラフの可視化ツール。gRPC・REST・GraphQL をまたいで
-関数レベルで処理を追え、循環依存とレイヤー違反を CI で検査します。静的解析だけで完結し、
-実行時依存ゼロ・完全ローカル動作です。
-
-🔗 https://makoto-developer.github.io/strata/ ・ 📦 https://github.com/makoto-developer/strata
-
----
-
-### [実践IT英会話](https://learning-english.app.makoto-developer.net/)
-
-An English learning web app for software engineers, focused on the vocabulary and
-phrasing that actually come up in day-to-day development work.
-
-エンジニア向けのIT英会話学習アプリ。開発の現場で実際に使う英語に絞って練習できます。
-
-🔗 https://learning-english.app.makoto-developer.net/
-
----
-
-More / その他: [makoto-developer's テックブログ — ポートフォリオ](https://blog.makoto-developer.net/portfolio)
+More / その他: [テックブログのポートフォリオ](https://blog.makoto-developer.net/portfolio)
 
 ## Recent stats / 最近のステータス
 
