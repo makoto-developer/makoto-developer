@@ -12,6 +12,21 @@ My experience spans infrastructure (both on-premises and cloud), mobile, and web
 
 インフラ（オンプレ・クラウド共に）、モバイル、Webアプリと幅広く経験し、現在はアーキテクトやテックリードとして活動しています。
 
+## Portfolio / ポートフォリオ
+
+### [実践IT英会話](https://learning-english.app.makoto-developer.net/)
+
+An English learning web app for software engineers, focused on the vocabulary and
+phrasing that actually come up in day-to-day development work.
+
+エンジニア向けのIT英会話学習アプリ。開発の現場で実際に使う英語に絞って練習できます。
+
+🔗 https://learning-english.app.makoto-developer.net/
+
+---
+
+More / その他: [makoto-developer's テックブログ — ポートフォリオ](https://blog.makoto-developer.net/portfolio)
+
 ## Recent stats / 最近のステータス
 
 <div>
