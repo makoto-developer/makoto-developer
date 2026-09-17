@@ -87,6 +87,15 @@ AWS
 / Kafka
 </p>
 
+## Keyboard / キーボード
+
+ErgoDox EZ. The layout is six layers, built in Oryx.
+
+ErgoDox EZ を使っている。Oryx で組んだ6層のレイアウト。
+
+- [Layout in Oryx / Oryx のレイアウト](https://configure.zsa.io/ergodox-ez/layouts/Da7jE/latest/0)
+- [What each layer does / 各層の説明](https://blog.makoto-developer.net/keyboard)
+
 ## Gist
 
 [makoto-developer's Gist Page](https://gist.github.com/makoto-developer)
