@@ -89,9 +89,9 @@ AWS
 
 ## Keyboard / キーボード
 
-ErgoDox EZ. The layout is 5 layers, built in Oryx.
+ErgoDox EZ. The layout is six layers, built in Oryx.
 
-ErgoDox EZ を使っています。Oryx で組んだ5層のレイアウトです。
+ErgoDox EZ を使っている。Oryx で組んだ6層のレイアウト。
 
 - [Layout in Oryx / Oryx のレイアウト](https://configure.zsa.io/ergodox-ez/layouts/Da7jE/latest/0)
 - [What each layer does / 各層の説明](https://blog.makoto-developer.net/keyboard)
